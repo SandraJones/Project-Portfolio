@@ -1,1 +1,1 @@
-# Top Sku Capstone
+# This is the professional website of Sandra Jones, Software Developer.
