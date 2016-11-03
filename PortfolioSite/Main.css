@@ -3,18 +3,38 @@ h1 {
 	font-weight: 900;
 	text-align: center;
 }
+h2 {
+	font-size: 30px;
+	font-weight: 900;
+	text-align: center;
+}
 p {
 	font-size: 30px;
 	font-weight: 700;
 	text-align: center;
 }
-section {
-	background-color: #81d8d0;
-	border-color: black;
-	color: black;
+body {
+	background: #A0F1FA;
 }
+
 article {
 	text-align: center;
 	background-color: #f3fb71;
 	font-size: 20px;
+}
+.contentOne {
+	font-size: 20px;
+	text-align: left;
+	font-weight: 500;
+}
+.thirdBlock {
+	align-items: center;
+	width: 60%;
+	margin-left: 20%;
+}
+.fourthBlock {
+	align-items: center;
+	width: 60%;
+	margin-left: 20%;
+	margin-bottom: 10%;
 }
