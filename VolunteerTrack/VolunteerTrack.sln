@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolunteerTrack", "VolunteerTrack\VolunteerTrack.csproj", "{9BB2818A-0FFE-41AD-814A-70770C093E3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolunteerTrack.Tests", "VolunteerTrack.Tests\VolunteerTrack.Tests.csproj", "{643591BD-C38A-47E7-882D-4BB9E278341E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BB2818A-0FFE-41AD-814A-70770C093E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB2818A-0FFE-41AD-814A-70770C093E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB2818A-0FFE-41AD-814A-70770C093E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB2818A-0FFE-41AD-814A-70770C093E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{643591BD-C38A-47E7-882D-4BB9E278341E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643591BD-C38A-47E7-882D-4BB9E278341E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643591BD-C38A-47E7-882D-4BB9E278341E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643591BD-C38A-47E7-882D-4BB9E278341E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
